@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programming\\lab2_v16\\lab2_v16\\lab2_v16\\lab2_v16.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\math.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_math.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
