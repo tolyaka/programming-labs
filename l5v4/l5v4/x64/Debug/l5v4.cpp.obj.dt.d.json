@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programming\\lab5\\l5v4\\l5v4\\l5v4.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdlib.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_malloc.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_search.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stddef.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdlib.h",
+            "d:\\microsoft visual studio\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\limits.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\time.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wtime.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
